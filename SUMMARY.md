@@ -15,4 +15,7 @@
     * [linux](system/linux/README.md)
         * [Command](system/linux/cmd/README.md)
             * [curl](system/linux/cmd/curl.md)
+* [Middle platform](mp/README.md)
+    * [AI](mp/ai/README.md)
+        * [feature](mp/ai/feature.md)
 
