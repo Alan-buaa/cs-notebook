@@ -7,6 +7,7 @@
         * [Shell 函数](language/shell/function.md)
     * [java](language/java/README.md)
         * [oop](language/java/oop.md)
+        * [class](language/java/class.md)
 * [Network](network/README.md)
     * [TCP/IP](network/tcp_ip/README.md)
         * [TCP](network/tcp_ip/tcp.md)
